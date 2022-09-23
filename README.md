@@ -4,9 +4,9 @@ This analysis seeks to address the changes in school district metrics after remo
 ## Analysis
 In order to obtain stats for comparison, I ran the program again without removing thomas high school's 9th grade scores, and was surprised at the small size of the difference.  
 Here are the school district's stats before removing the dishonest scores:  
-![]()  
+![](https://github.com/ChrisJAnderson/PyCitySchoolsChallenge/blob/main/images/schoolstatswithoutcleaning.png)  
 And here are the stats afterwards:  
-![]()  
+![](https://github.com/ChrisJAnderson/PyCitySchoolsChallenge/blob/main/images/schoolstatswithcleaning.png)  
 -The total students metric is of course unchanged- the students are still there, their scores just don't count.  
 -Same for the budget. Schools are still spending the same money on these students, even though they're cheating.  
 -Average math score goes down by .1 after removing the offending class' scores. 
